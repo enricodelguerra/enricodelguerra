@@ -30,5 +30,5 @@
 
 <div>
   <h2>Redes Sociais</h2>
-  <a href="www.linkedin.com/in/enricodelguerra" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://www.linkedin.com/in/enricodelguerra/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
 </div>
