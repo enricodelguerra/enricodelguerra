@@ -2,7 +2,6 @@
 
 - 🚀 Sou um entusiasta de tecnologia, sempre em busca de aprender e evoluir pessoalmente e profissionalmente. Apaixonado por desafios e novas soluções. 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na FIAP
-- 🤝 Gosto de projetos que me ajudem a evoluir como profissional e pessoa.
 - 🌍 São Paulo
 
 ---
