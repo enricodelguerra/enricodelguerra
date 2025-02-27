@@ -1,5 +1,6 @@
 # Olá! Eu sou Enrico Figueiredo Del Guerra
 
+* 🌍  São Paulo
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
 
 <div>
