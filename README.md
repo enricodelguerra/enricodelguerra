@@ -33,4 +33,8 @@
   <a href="https://www.linkedin.com/in/enricodelguerra/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
 </div>
 
-![snake gif](https://github.com/enricodelguerra/enricodelguerra/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricodelguerra/enricodelguerra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricodelguerra/enricodelguerra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enricodelguerra/enricodelguerra/output/github-contribution-grid-snake.svg">
+</picture>
